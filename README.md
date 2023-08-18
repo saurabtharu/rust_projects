@@ -3,8 +3,8 @@
 
 Learning C by writing clones of some UNIX CLI utility tool
 
-- [x] `recho` - clone of `echo`
-- [] `catr` - clone of `cat`
+[x] `recho` - clone of `echo`
+[] `catr` - clone of `cat`
 
 
 <br>
