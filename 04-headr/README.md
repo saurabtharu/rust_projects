@@ -1,3 +1,27 @@
+# headr
+```shell
+$ headr --help
+headr 0.1.0
+Saurab Tharu <saurab.tharu2@gmail.com>
+Rust implementation of head
+
+USAGE:
+    headr [OPTIONS] [FILE]...
+
+FLAGS:
+    -h, --help       Prints help information
+    -V, --version    Prints version information
+
+OPTIONS:
+    -c, --bytes <BYTES>    Number of bytes
+    -n, --lines <LINES>    Number of lines [default: 10]
+
+ARGS:
+    <FILE>...    Input file(s) [default: -]
+```
+
+
+
 
 clap::{App, Arg}
 std::err::Error
